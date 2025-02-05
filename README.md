@@ -2,7 +2,7 @@
 
 Description:
 
-This is a Data Structures & Algorithms group project. It is a Property or House Rental Management System that helps manage property-related information, including tenant details, owner details, deposits, and overdue payments. The system is implemented in C++ and uses multiple classes to handle different aspects of property management.
+This is a Data Structures & Algorithms group project. It is a Property or House Rental Management System that helps manage property-related information, including tenant details, owner details, deposits, and overdue payments. The system is implemented in C++ and uses multiple classes to handle different aspects of property management. It uses linked-list, hash tables, arrays and bubble sort algorithm.
 
 Features:
 - Property Management: Handles property details and information.
